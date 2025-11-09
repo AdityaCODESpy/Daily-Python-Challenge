@@ -39,5 +39,5 @@ def main():
     print("Ab code likhna shuru kar!")
     print("="*50)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
