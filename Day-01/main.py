@@ -1,5 +1,9 @@
 # Day 01: Motivation Booster
+<<<<<<< HEAD
 # Author: AdityaCODESpy
+=======
+# Author: Aditya
+>>>>>>> 3c81b3651357afa24cc48fd9e2aac721cddf5d44
 # Date: 9 November 2025
 
 import datetime
@@ -40,4 +44,8 @@ def main():
     print("="*50)
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> 3c81b3651357afa24cc48fd9e2aac721cddf5d44
